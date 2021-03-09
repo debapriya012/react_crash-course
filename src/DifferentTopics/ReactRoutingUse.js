@@ -5,7 +5,7 @@ import ClassComponent from "./ClassComponent";
 import FunctionComponent from "./FunctionComponent";
 import DummyUsers from "./DummyUsers";
 import FormsCreateUser from "./FormsCreateUser";
-import BootstrapUses from "./BootstrapUses";
+import BootstrapUses from "./BootstrapUses"
 import UserWithApi from './UserWithApi';
 function ReactRoutingUse() {
     return (<div>

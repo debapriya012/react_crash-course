@@ -1,15 +1,15 @@
 import React, { useState } from 'react';
 import './App.css';
 import { Link, Route, BrowserRouter as Router } from 'react-router-dom';
-// import ClassComponent from "./ClassComponent";
-// import FunctionComponent from './FunctionComponent';
-// import ClassComponentProps from './ClassComponentProps';
-// import FunctionComponentProps from './FunctionComponentsProps';
-// import EventFunctionComponent from './EventFunctionComponent';
-// import ListingConditions from './ListingConditions';
-// import BootstrapUses from './BootstrapUses';
-// import FormsCreateUser from './FormsCreateUser';
-import ReactRoutingUse from './ReactRoutingUse';
+// import ClassComponent from "./DifferentTopics/ClassComponent";
+// import FunctionComponent from './DifferentTopics/FunctionComponent';
+// import ClassComponentProps from './DifferentTopics/ClassComponentProps';
+// import FunctionComponentProps from './DifferentTopics/FunctionComponentsProps';
+// import EventFunctionComponent from './DifferentTopics/EventFunctionComponent';
+// import ListingConditions from './DifferentTopics/ListingConditions';
+// import BootstrapUses from './DifferentTopics/BootstrapUses';
+// import FormsCreateUser from './DifferentTopics/FormsCreateUser';
+import ReactRoutingUse from './DifferentTopics/ReactRoutingUse';
 
 
 
